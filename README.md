@@ -107,3 +107,7 @@
 - **Отменить бронирование**: `POST /api/v1/bookings/{id}/cancel/`
 
 
+## Контактная информация
+
+Автор: Иван Герасимчик  
+Email: iv.gerasimchik@gmail.com
